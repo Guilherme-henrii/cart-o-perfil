@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+
+    height: 350px;
+    width: 330px;
+    padding: 20px;
+    
+    text-align: center;
+    background-color: white;
+    border-radius: 5%;
+}
+
+
+.numbers {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    
+}
+
+hr {
+    width: 100%;
+}
+
+
+.imagem-pequena {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+
+}
+
+.nome-sobrenome {
+    color: black;
+}
+
